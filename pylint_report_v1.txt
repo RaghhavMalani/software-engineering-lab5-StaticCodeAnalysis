@@ -1,0 +1,21 @@
+************* Module inventory_system
+inventory_system.py:10:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:17:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:24:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:47:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:63:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:82:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:87:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:89:27: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:90:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:93:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:96:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:107:0: C0304: Final newline missing (missing-final-newline)
+inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory_system.py:48:4: W0603: Using the global statement (global-statement)
+inventory_system.py:3:0: W0611: Unused import sys (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 7.38/10 (previous run: 9.83/10, -2.46)
+
